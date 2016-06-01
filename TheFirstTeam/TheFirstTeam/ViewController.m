@@ -8,7 +8,9 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
+@interface ViewController () {
+    
+}
 
 @end
 
@@ -18,7 +20,7 @@
     [super viewDidLoad];
     
     
-     NSLog(@"无敌战队！！！");
+
     NSLog(@"无敌战队！！！");
     
     
